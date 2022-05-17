@@ -17,15 +17,23 @@
 
   ## Screenshots
   - Main page
+  ![image](https://user-images.githubusercontent.com/94570754/168736787-7990028e-229f-4add-a325-845cb9490ecd.png)
+
 
   - Login
+  ![image](https://user-images.githubusercontent.com/94570754/168736847-7f45250a-e794-4604-8167-e25ffd306683.png)
+
 
   - Search for Books
+  ![image](https://user-images.githubusercontent.com/94570754/168737352-eab66e6d-3401-403f-aea7-7a405273ec3f.png)
+
 
   - Saved Books
+  - ![image](https://user-images.githubusercontent.com/94570754/168737458-6cfc1674-4e14-492a-bac9-1886b9c1287f.png)
+
 
   ## Usage
-  Use the book search engine by navigating to the link provided below. You can search for books without logging but you must be logged in to save book information. When you are logged in you can also click 'See Your Books' to view all of the books you have saved. 
+  Use the book search engine by navigating to the link provided below. You can search for books without logging but you must be logged in or sign up to save book information. When you are logged in you can also click 'See Your Books' to view all of the books you have saved. 
 
   ## Contributing
   Contributions welcome! Contact me using the information in the "Questions" section below. 
